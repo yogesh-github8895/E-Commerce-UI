@@ -17,7 +17,7 @@
  - run  npx create-react-app myapp
 
 2.Install styled-components which you are using in jsx components to write down CSS.
- - run  nmp i -f styled-components
+ - run  npm i -f styled-components
 
 3.Install Some Library for Logo like Search , ShoppingCartOutlined, Arrow & Cart....etc.  
   - run  npm install -f @material-ui/core  @material-ui/icons
